@@ -1,0 +1,30 @@
+Usage Instructions for the Contact Management Web Application:
+
+1. **Overview:**
+   - This web application allows you to manage contacts with CRUD (Create, Read, Update, Delete) operations, enhanced with persistent storage via a MySQL database and a user-friendly React interface.
+
+2. **Accessing the Application:**
+   - Open `http://localhost:3000` in a web browser after starting the server and React app.
+
+3. **Creating a Contact:**
+   - Click the "Add Contact" button or the "+" button in the header.
+   - Fill in the form with ID (max 10 characters), First Name, Last Name, Phone (10+ digits), Address (max 200 characters), and Email.
+   - Submit to add the contact; duplicates by ID are prevented, and validation errors are displayed if input is invalid.
+
+4. **Viewing Contacts:**
+   - The card-based layout displays all contacts, sorted alphabetically by ID (handled by the MySQL database).
+   - No search bar is currently available; use the UI to scroll through contacts.
+
+5. **Updating a Contact:**
+   - Click "Edit" on a contact card, modify fields in the edit form, and click "Save". Validation ensures data integrity, with errors shown if input is invalid.
+
+6. **Deleting a Contact:**
+   - Click "Delete" on a contact card to remove it; a confirmation prompt will appear.
+
+7. **Performance Check:**
+   - Visit `http://localhost:3000/performance` in the browser to view benchmark times for insertion, lookup, and binary search with 100 test contacts (note: performance reflects database operations).
+
+8. **Notes:**
+   - All actions are logged to 'logs/combined.log' and 'logs/error.log'.
+   - Invalid input (e.g., phone < 10 digits, invalid email) triggers error messages on the UI.
+   - Contacts persist in the MySQL database and reload on server restart from initial TestData.txt data.

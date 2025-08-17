@@ -1,0 +1,27 @@
+To run the Contact Management Web Application with MySQL:
+
+1. **Navigate to the Project Directory:**
+   - Open a terminal and change to the project root directory containing the client and server files, where TestData.txt is located.
+
+2. **Install Dependencies:**
+   - For the React frontend: Navigate to the 'client' folder (`cd client`) and run `npm install` to install React dependencies.
+   - For the Express backend: From the root directory, run `npm install express winston mysql2` to install server dependencies.
+
+3. **Set Up MySQL:**
+   - Create a database named 'contact_management_db' on your MySQL server.
+   - Update dbConfig in server.js with your MySQL username, password, and host.
+   - Ensure MySQL is running locally or adjust the host accordingly.
+
+4. **Start the Server:**
+   - In the root directory, run `node server.js` to start the Express server on port 3000. The server will initialize the database and load contacts from TestData.txt.
+
+5. **Start the React Application:**
+   - In a separate terminal, navigate to the 'client' folder (`cd client`) and run `npm start` to launch the React app, typically on port 3000 (ensure no port conflicts; adjust if needed).
+
+6. **Access the Application:**
+   - Open a web browser and go to `http://localhost:3000` to use the application.
+
+7. **Notes:**
+   - Ensure Node.js, npm, and MySQL are installed and configured.
+   - Logs are saved in the 'logs' directory (create it if it doesn't exist).
+   - Stop the server with Ctrl+C when done.

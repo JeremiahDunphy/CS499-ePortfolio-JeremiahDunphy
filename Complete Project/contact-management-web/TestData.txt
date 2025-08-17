@@ -1,0 +1,52 @@
+Test Data for Contact Management Web Application (50 records):
+
+12345,John,Doe,1234567890,123 Elm St,john.doe@example.com
+12346,Jane,Smith,0987654321,456 Oak St,jane.smith@example.com
+12347,Bob,Johnson,5551234567,789 Pine St,bob.johnson@example.com
+12348,Alice,Brown,4443216789,101 Maple Ave,alice.brown@example.com
+12349,Charlie,Davis,7778889999,202 Cedar Rd,charlie.davis@example.com
+12350,Emma,Wilson,3332221111,303 Birch Ln,emma.wilson@example.com
+12351,David,Lee,6665554444,404 Spruce St,david.lee@example.com
+12352,Sarah,Taylor,9998887777,505 Walnut Dr,sarah.taylor@example.com
+12353,Michael,Clark,2223334444,606 Pine Rd,michael.clark@example.com
+12354,Laura,Adams,5556667777,707 Oak Ln,laura.adams@example.com
+12355,James, Evans,8889990000,808 Elm St,james.evans@example.com
+12356,Emily, Harris,1112223333,909 Maple Ave,emily.harris@example.com
+12357,Robert, King,4445556666,1010 Cedar Rd,robert.king@example.com
+12358,Lisa, Moore,7778889999,1111 Pine St,lisa.moore@example.com
+12359,Thomas, Scott,3334445555,1212 Oak Ln,thomas.scott@example.com
+12360,Jennifer, Turner,6667778888,1313 Birch Dr,jennifer.turner@example.com
+12361,William, Parker,9990001111,1414 Spruce St,william.parker@example.com
+12362,Karen, Young,2223334444,1515 Walnut Rd,karen.young@example.com
+12363,Richard, Allen,5556667777,1616 Maple Ave,richard.allen@example.com
+12364,Susan, Hill,8889990000,1717 Cedar Ln,susan.hill@example.com
+12365,Joseph, Green,1112223333,1818 Pine St,joseph.green@example.com
+12366,Mary, Baker,4445556666,1919 Oak Rd,mary.baker@example.com
+12367,Charles, Kelly,7778889999,2020 Birch Ave,charles.kelly@example.com
+12368,Patricia, Mitchell,3334445555,2121 Spruce Ln,patricia.mitchell@example.com
+12369,Daniel, Perez,6667778888,2222 Walnut St,daniel.perez@example.com
+12370,Barbara, Roberts,9990001111,2323 Maple Rd,barbara.roberts@example.com
+12371,Matthew, Turner,2223334444,2424 Cedar Ave,matthew.turner@example.com
+12372,Linda, Phillips,5556667777,2525 Pine Ln,linda.phillips@example.com
+12373,Mark, Campbell,8889990000,2626 Oak St,mark.campbell@example.com
+12374,Elizabeth, Parker,1112223333,2727 Birch Rd,elizabeth.parker@example.com
+12375,Donald, Evans,4445556666,2828 Spruce Ave,donald.evans@example.com
+12376,Nancy, Edwards,7778889999,2929 Walnut Ln,nancy.edwards@example.com
+12377,Paul, Collins,3334445555,3030 Maple St,paul.collins@example.com
+12378,Helen, Stewart,6667778888,3131 Cedar Rd,helen.stewart@example.com
+12379,George, Sanchez,9990001111,3232 Pine Ave,george.sanchez@example.com
+12380,Karen, Morris,2223334444,3333 Oak Ln,karen.morris@example.com
+12381,Kenneth, Rogers,5556667777,3434 Birch St,kenneth.rogers@example.com
+12382,Dorothy, Reed,8889990000,3535 Walnut Rd,dorothy.reed@example.com
+12383,Steven, Cook,1112223333,3636 Maple Ave,steven.cook@example.com
+12384,Lisa, Morgan,4445556666,3737 Cedar Ln,lisa.morgan@example.com
+12385,Edward, Bell,7778889999,3838 Pine St,edward.bell@example.com
+12386,Deborah, Murphy,3334445555,3939 Oak Rd,deborah.murphy@example.com
+12387,Ronald, Bailey,6667778888,4040 Birch Ave,ronald.bailey@example.com
+12388,Sharon, Rivera,9990001111,4141 Spruce Ln,sharon.rivera@example.com
+12389,Gary, Cooper,2223334444,4242 Walnut St,gary.cooper@example.com
+12390,Carol, Richardson,5556667777,4343 Maple Rd,carol.richardson@example.com
+12391,Timothy, Cox,8889990000,4444 Cedar Ave,timothy.cox@example.com
+12392,Christine, Howard,1112223333,4545 Pine Ln,christine.howard@example.com
+12393,Arthur, Ward,4445556666,4646 Oak St,arthur.ward@example.com
+12394,Julie, Torres,7778889999,4747 Birch Rd,julie.torres@example.com
