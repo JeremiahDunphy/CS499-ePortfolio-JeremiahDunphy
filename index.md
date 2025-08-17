@@ -29,4 +29,4 @@ These artifacts, culminating in a fully integrated complete project, reflect a c
 
 <a id="complete-project"></a>
 ## Complete Project
-- [Download Full Project](complete-project/)
+- [Complete Project](complete-project/)
