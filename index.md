@@ -1,4 +1,4 @@
-# CS 499 ePortfolio - [Your Name]
+# CS 499 ePortfolio - JeremiahDunphy
 
 ## Professional Self-Assessment
 
@@ -8,22 +8,25 @@ Key technical achievements include the development of a React-based user interfa
 
 These artifacts, culminating in a fully integrated complete project, reflect a cohesive and versatile skill set that aligns with industry standards. This experience has prepared me for a successful career in software development, equipping me with the ability to tackle complex challenges, collaborate effectively with diverse teams, and deliver innovative, scalable solutions. I am confident in my readiness to contribute to dynamic technology environments, leveraging my technical acumen and commitment to continuous improvement.
 
+<a id="sections"></a>
 ## Sections
 - [Artifacts](#artifacts)
 - [Narratives](#narratives)
 - [Complete Project](#complete-project)
 
+<a id="artifacts"></a>
 ## Artifacts
-- [Original Files](/artifacts/original/)
-- [Software Design](/artifacts/software-design/)
-- [Algorithms and Data Structures](/artifacts/algorithms/)
-- [Databases](/artifacts/databases/)
+- [Original Files](artifacts/original/)
+- [Software Design](artifacts/software-design/)
+- [Algorithms and Data Structures](artifacts/algorithms/)
+- [Databases](artifacts/databases/)
 
+<a id="narratives"></a>
 ## Narratives
-- [Software Design Narrative](/narratives/Narrative_SoftwareDesign.md)
-- [Algorithms Narrative](/narratives/Narrative_Algorithms.md)
-- [Databases Narrative](/narratives/Narrative_Databases.md)
+- [Software Design Narrative](narratives/Narrative_SoftwareDesign.md)
+- [Algorithms Narrative](narratives/Narrative_Algorithms.md)
+- [Databases Narrative](narratives/Narrative_Databases.md)
 
+<a id="complete-project"></a>
 ## Complete Project
-- [Download Full Project](/complete-project/)
-
+- [Download Full Project](complete-project/)
