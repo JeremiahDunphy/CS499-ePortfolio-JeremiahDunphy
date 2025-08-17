@@ -16,16 +16,16 @@ These artifacts, culminating in a fully integrated complete project, reflect a c
 
 <a id="artifacts"></a>
 ## Artifacts
-- [Original Files](artifacts/original/)
-- [Software Design](artifacts/software-design/)
-- [Algorithms and Data Structures](artifacts/algorithms/)
-- [Databases](artifacts/databases/)
+- [Original Files](Artifacts/original/)
+- [Software Design](Artifacts/software-design/)
+- [Algorithms and Data Structures](Artifacts/algorithms/)
+- [Databases](Artifacts/databases/)
 
 <a id="narratives"></a>
 ## Narratives
-- [Software Design Narrative](narratives/Narrative_SoftwareDesign.md)
-- [Algorithms Narrative](narratives/Narrative_Algorithms.md)
-- [Databases Narrative](narratives/Narrative_Databases.md)
+- [Software Design Narrative](Narratives/Narrative_SoftwareDesign.md)
+- [Algorithms Narrative](Narratives/Narrative_Algorithms.md)
+- [Databases Narrative](Narratives/Narrative_Databases.md)
 
 <a id="complete-project"></a>
 ## Complete Project
