@@ -6,3 +6,4 @@ exclude:
   - server.js
   - ContactManager.css
   - ContactManager.jsx
+theme: jekyll-theme-minimal
