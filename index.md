@@ -16,7 +16,7 @@ These artifacts, culminating in a fully integrated complete project, reflect a c
 
 <a id="artifacts"></a>
 ## Artifacts
-- [Original Files](artifacts/original/)
+- [Original Files](artifacts/original/index.html)
 - [Software Design](artifacts/software-design/)
 - [Algorithms and Data Structures](artifacts/algorithms/)
 - [Databases](artifacts/databases/)
